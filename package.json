@@ -1,0 +1,23 @@
+{
+  "name": "javascript-web-doover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinejdavis/javascript-web-doOver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinejdavis/javascript-web-doOver/issues"
+  },
+  "homepage": "https://github.com/paulinejdavis/javascript-web-doOver#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
